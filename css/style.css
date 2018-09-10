@@ -1,0 +1,71 @@
+body {
+  margin: 0;
+  padding: 0;
+
+  font-family: "PT Sans Narrow", Arial, sans-serif;
+  font-size: 14px;
+  line-height: 24px;
+  font-weight: 700;
+  color: black;
+  text-transform: uppercase;
+  
+  background-color: white;
+  background-image: url("img/bg.jpg");
+  background-position: top center;
+  background-repeat: no-repeat;
+}
+
+a {
+  text-decoration: none;
+}
+
+.main-navigation {
+  font-size: 16px;
+  line-height: 20px;
+  color: black;
+
+  background-color: white;
+}
+.site-navigation {
+  list-style: none;
+}
+
+.site-navigation a {
+  color: black;
+}
+
+.site-navigation a:hover,
+.site-navigation a:focus {
+  background-color: white;
+}
+
+.advantage {
+  color: black;
+  background: white;
+}
+
+.advantage-list {
+  list-style: none;
+}
+
+.advantage-item {
+  text-align: center;
+}
+
+.advantage-item h3 {
+  font-size: 30px;
+  line-height: 42px;
+}
+
+.advantage-more {
+  list-style: none;
+}
+
+.advantage-more-item {
+  text-align: center;
+}
+
+.advantage-more-item h3 {
+  font-size: 30px;
+  line-height: 42px;
+}
