@@ -19,6 +19,14 @@ a {
   text-decoration: none;
 }
 
+.main-header {
+  background-color: azure;
+}
+
+.logo {
+
+}
+
 .main-navigation {
   font-size: 16px;
   line-height: 20px;
@@ -34,10 +42,31 @@ a {
   color: black;
 }
 
+.site-navigation-item {
+  color: black;
+}
+
+.site-navigation-item-link {
+  color: black;
+}
+
 .site-navigation a:hover,
 .site-navigation a:focus {
   background-color: white;
 }
+
+.container {
+  background-color: white;
+}
+
+.some {
+  background-color: white;
+}
+
+.text {
+  font-size: 20px;
+}
+
 
 .advantage {
   color: black;
